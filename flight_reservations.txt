@@ -1,0 +1,9 @@
+Flight FL001
+Seats: 0 0 1 1 1 1 1 1 1 1 
+Flight FL002
+Seats: 0 0 1 1 1 1 1 1 1 1 
+Bookings (4):
+Name: Ekrem, Flight: FL002, Seat: 1
+Name: Eko, Flight: FL001, Seat: 1
+Name: Ali, Flight: FL002, Seat: 2
+Name: Veli, Flight: FL001, Seat: 2
